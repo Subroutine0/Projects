@@ -1,0 +1,4 @@
+This is a quick example
+To test the word count program
+And see if it will successfully count out
+twenty two words
